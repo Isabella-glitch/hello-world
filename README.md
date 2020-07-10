@@ -2,4 +2,4 @@
 Just another repository
 Hi! 
 Did you know?
-The largest earthquke recorded was in Chile in 1960's.
+The largest earthquake recorded was in Chile in 1960's.
